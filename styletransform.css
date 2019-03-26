@@ -1,0 +1,15 @@
+.box {
+    transition: 1000ms;
+    height: 100px;
+    width: 100px;
+    margin: 50px;
+    background-color: purple;
+}
+
+.box:hover {
+    height: 300px;
+    width: 300px;
+    margin: 50px;
+    background-color: yellowgreen;
+    transform: rotate(45deg);
+}

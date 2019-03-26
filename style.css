@@ -1,0 +1,65 @@
+/* #ferguso {
+    background-color: rgb(255, 255, 132)
+}
+.kecebong {
+    background-color: teal;
+}
+h1 {
+    background-color: rgb(206, 255, 149);
+}
+a[href] {
+    color: chocolate
+}
+a[id] {
+    color: rgba(63, 0, 35, 0.3)
+}
+body {
+    background: url("../../Images/anime_landscape/5470b42f005e7.jpg"); 
+    background-position: left top; 
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+p {
+    background-color: white;
+    font-family: 'Playfair Display', serif; 
+    font-style: italic; 
+    text-transform: uppercase;
+    text-decoration: line-through;
+    text-shadow: -4px 4px 4px red;
+    line-height: 25px;
+    letter-spacing: 2px;
+    word-spacing: 4px;
+    text-align: justify;
+    text-indent: 2rem;
+    font-size: 16px;
+}
+
+div{
+    background-color: white;
+    padding: 10%;
+}
+
+ul { 
+    list-style-type: lower-latin; 
+} */
+
+.divisi1 {
+    background-color: rgb(255, 98, 98);
+}
+.divisi2 {
+    background-color: rgb(78, 78, 255);
+}
+.divisi3 {
+    background-color: rgb(125, 255, 125);
+    height: 200px;
+    width: 400px;
+    border: 10px solid royalblue;
+    border-radius: 10px;
+    padding: 20px;
+}
+.subdivisi3 {
+    background-color: rgb(5, 70, 5);
+    height: 100px;
+    width: 200%;
+    /* margin: 10px; */
+}
